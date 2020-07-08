@@ -1,2 +1,2 @@
 # practice
-practice repo
+practice repo for learning
